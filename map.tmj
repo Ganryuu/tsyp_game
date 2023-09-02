@@ -478,6 +478,23 @@
                  "width":32,
                  "x":162,
                  "y":386
+                }, 
+                {
+                 "height":64,
+                 "id":21,
+                 "name":"to-test",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"stands_hall.tmj#from-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":272,
+                 "y":100
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -560,7 +577,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":21,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
