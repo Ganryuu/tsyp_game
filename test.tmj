@@ -613,7 +613,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cesar.tmj#from-conference"
+                         "value":"stairs.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
