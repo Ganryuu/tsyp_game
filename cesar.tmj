@@ -453,7 +453,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall.tmj"
+                         "value":"stands_hall.tmj#entry-from-cesar"
                         }],
                  "rotation":0,
                  "type":"area",

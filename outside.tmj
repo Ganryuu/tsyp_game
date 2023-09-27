@@ -613,31 +613,14 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"outside.tmj"
+                         "value":"conference.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":276,
-                 "x":401,
+                 "x":409,
                  "y":1880
-                }, 
-                {
-                 "height":158.333333333333,
-                 "id":25,
-                 "name":"to-office",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"stands_hall.tmj#entry-from-hannibal"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":60,
-                 "x":1217,
-                 "y":1666.66666666667
                 }, 
                 {
                  "height":148,
@@ -653,8 +636,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":1122.60606060606,
-                 "y":1678.54545454546
+                 "x":1218.60606060606,
+                 "y":1671.87878787879
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -964,7 +947,7 @@
          "y":0
         }],
  "nextlayerid":72,
- "nextobjectid":26,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
