@@ -1,10 +1,10 @@
-# WorkAdventure Map Starter Kit
+# TSYP 11th Edition virtual map , this was cloned from our good friends at WorkAdventure : https://github.com/workadventure/map-starter-kit ( star it pls ) 
 
 ![map](./map.png)
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+Build your own map for [WorkAdventure](https://workadventu.re).
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+To understand how to use this map, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
 ## Structure
 * *public*: Static files like PDFs or audio files
