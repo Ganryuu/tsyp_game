@@ -1472,7 +1472,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hannibal.tmj"
+                         "value":"jasmin_rooms.tmj"
                         }],
                  "rotation":0,
                  "type":"area",
