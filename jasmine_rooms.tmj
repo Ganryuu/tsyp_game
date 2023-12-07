@@ -836,6 +836,23 @@
                  "y":1861.33333333333
                 }, 
                 {
+                 "height":91.6666666666667,
+                 "id":29,
+                 "name":"to-outside",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"stands_hall.tmj#entry-from-jasmine"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":59.9999999999995,
+                 "x":1219,
+                 "y":1601.33333333333
+                }, 
+                {
                  "height":148,
                  "id":23,
                  "name":"from-office",
@@ -849,8 +866,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":1205.9393939394,
-                 "y":1581.87878787879
+                 "x":1165.9393939394,
+                 "y":1592.54545454546
                 }, 
                 {
                  "height":544,
@@ -1103,7 +1120,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
