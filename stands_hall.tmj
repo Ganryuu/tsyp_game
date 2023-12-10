@@ -1685,6 +1685,23 @@
                  "y":1344.21212121212
                 }, 
                 {
+                 "height":49,
+                 "id":48,
+                 "name":"from-passage",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":192,
+                 "x":800.939393939394,
+                 "y":1.21212121212011
+                }, 
+                {
                  "height":120,
                  "id":38,
                  "name":"from-food-court",
@@ -2782,7 +2799,7 @@
          "y":0
         }],
  "nextlayerid":108,
- "nextobjectid":47,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {
