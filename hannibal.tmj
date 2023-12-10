@@ -608,7 +608,7 @@
                 {
                  "height":59.6666666666665,
                  "id":22,
-                 "name":"to-office",
+                 "name":"to-outside",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -621,6 +621,23 @@
                  "width":276,
                  "x":401,
                  "y":1857.33333333333
+                }, 
+                {
+                 "height":59.6666666666665,
+                 "id":28,
+                 "name":"from-outside",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":276,
+                 "x":397,
+                 "y":1764.33333333333
                 }, 
                 {
                  "height":158.333333333333,
@@ -1136,7 +1153,7 @@
          "y":0
         }],
  "nextlayerid":75,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
