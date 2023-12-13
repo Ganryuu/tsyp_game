@@ -895,6 +895,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"jasmine_session_2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }],
                  "rotation":0,
                  "type":"area",

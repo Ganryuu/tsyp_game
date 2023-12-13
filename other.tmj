@@ -398,8 +398,8 @@
                 }, 
                 {
                  "data":[0, 0, 11103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11103, 0, 0,
-                    0, 0, 11143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11143, 90, 0,
-                    0, 0, 11183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 102, 0, 0, 11183, 102, 0,
+                    0, 0, 11143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11143, 0, 0,
+                    0, 0, 11183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11183, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -583,7 +583,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":320,
+                 "height":842.666666666666,
                  "id":18,
                  "name":"jitsiConference",
                  "properties":[
@@ -600,41 +600,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":219.090909090909,
-                 "x":216,
-                 "y":293
-                }, 
-                {
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":256,
-                 "y":96
+                 "width":474.424242424243,
+                 "x":138.666666666667,
+                 "y":89.6666666666666
                 }, 
                 {
                  "height":125,
@@ -680,40 +648,7 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":20,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":304.52245019328,
-                 "y":62.873476063039
-                }],
+         "objects":[],
          "opacity":1,
          "properties":[
                 {

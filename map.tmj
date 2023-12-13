@@ -414,7 +414,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"wa-corner.tmj#from-register"
+                         "value":"other.tmj#from-register"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -473,6 +473,23 @@
                  "width":50.667,
                  "x":939.333166666667,
                  "y":363.33335
+                }, 
+                {
+                 "height":83.3333,
+                 "id":32,
+                 "name":"from-garden-passage",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":50.667,
+                 "x":863.6665,
+                 "y":363.000016666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -884,7 +901,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
