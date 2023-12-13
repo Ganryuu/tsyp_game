@@ -583,7 +583,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":842.666666666666,
+                 "height":787.333333333333,
                  "id":18,
                  "name":"jitsiConference",
                  "properties":[
@@ -600,9 +600,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":474.424242424243,
-                 "x":138.666666666667,
-                 "y":89.6666666666666
+                 "width":453.09090909091,
+                 "x":160,
+                 "y":145
                 }, 
                 {
                  "height":125,
