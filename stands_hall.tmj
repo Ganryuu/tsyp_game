@@ -1902,7 +1902,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"@\/ieee-essths\/tsyp-11\/registration_hall#from-stands-hall"
+                         "value":"registration_hall#from-stands-hall"
                         }],
                  "rotation":0,
                  "type":"area",
