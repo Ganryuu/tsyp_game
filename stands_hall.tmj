@@ -1902,7 +1902,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"registration_hall#from-stands-hall"
+                         "value":"registration_hall#from-stands-hall1"
                         }],
                  "rotation":0,
                  "type":"area",
