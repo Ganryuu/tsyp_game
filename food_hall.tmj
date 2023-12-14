@@ -723,7 +723,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall.tmj#from-food-court"
+                         "value":"stands_hall#from-food-court"
                         }],
                  "rotation":0,
                  "type":"area",

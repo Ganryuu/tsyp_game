@@ -1647,7 +1647,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cesar.tmj#from-conference"
+                         "value":"cesar"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1664,7 +1664,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"garden_passage.tmj#from-stands-hall"
+                         "value":"garden_passage#from-stands-hall"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1766,7 +1766,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"jasmine_rooms.tmj"
+                         "value":"jasmine_rooms"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1783,7 +1783,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"food_hall.tmj"
+                         "value":"food_hall"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1902,7 +1902,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"registration_hall#from-stands-hall1"
+                         "value":"registration_hall#from-stands-hall"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -613,7 +613,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"outside.tmj#from-hannibal"
+                         "value":"outside#from-hannibal"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -647,7 +647,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall.tmj#from-hannibal"
+                         "value":"stands_hall#from-hannibal"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -449,7 +449,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"outside.tmj#from-passage"
+                         "value":"outside#from-passage"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -483,7 +483,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"stands_hall.tmj#from-passage"
+                         "value":"stands_hall#from-passage"
                         }],
                  "rotation":0,
                  "type":"area",

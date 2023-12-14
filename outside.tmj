@@ -637,7 +637,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hannibal.tmj#from-outside"
+                         "value":"hannibal#from-outside"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -671,7 +671,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"garden_passage.tmj#from-outside"
+                         "value":"garden_passage#from-outside"
                         }],
                  "rotation":0,
                  "type":"area",
