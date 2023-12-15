@@ -681,6 +681,23 @@
                  "y":838.166666666667
                 }, 
                 {
+                 "height":32.5,
+                 "id":35,
+                 "name":"to-tunnel",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"registration_hall#from-tent"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":30.833333333333,
+                 "x":257.5,
+                 "y":313.666666666667
+                }, 
+                {
                  "height":59.8333333333334,
                  "id":28,
                  "name":"from-passage",
@@ -696,6 +713,40 @@
                  "width":221.833333333333,
                  "x":621,
                  "y":744.833333333333
+                }, 
+                {
+                 "height":33.3333,
+                 "id":32,
+                 "name":"from-tunnel",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":158.333,
+                 "x":191.5835,
+                 "y":383.08335
+                }, 
+                {
+                 "height":33.3333,
+                 "id":33,
+                 "name":"from-tunnel",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":158.333,
+                 "x":191.5835,
+                 "y":383.08335
                 }],
          "opacity":1,
          "properties":[
@@ -882,7 +933,7 @@
          "y":0
         }],
  "nextlayerid":89,
- "nextobjectid":32,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {

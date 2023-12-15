@@ -536,7 +536,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":787.333333333333,
+                 "height":794,
                  "id":18,
                  "name":"jitsiConference",
                  "properties":[
@@ -555,7 +555,7 @@
                  "visible":true,
                  "width":453.09090909091,
                  "x":160,
-                 "y":145
+                 "y":138.333333333333
                 }, 
                 {
                  "height":125,
@@ -565,7 +565,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-wa-hall"
+                         "value":"registration_hall#from-wa-hall"
                         }],
                  "rotation":0,
                  "type":"area",
