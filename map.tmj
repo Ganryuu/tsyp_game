@@ -954,15 +954,50 @@
                     {
                      "bold":true,
                      "fontfamily":"Segoe UI",
-                     "pixelsize":19,
                      "text":"WorkAdventure Corner",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":144,
-                 "x":2.5,
-                 "y":389.5625
+                 "width":124.5,
+                 "x":0.5,
+                 "y":416.5625
+                }, 
+                {
+                 "height":54.375,
+                 "id":38,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Segoe UI",
+                     "text":"WorkAdventure Corner",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":124.5,
+                 "x":0.5,
+                 "y":416.5625
+                }, 
+                {
+                 "height":28.375,
+                 "id":39,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Segoe UI",
+                     "text":"Stands Hall",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":124.5,
+                 "x":515.5,
+                 "y":34.0625
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -971,7 +1006,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":38,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
