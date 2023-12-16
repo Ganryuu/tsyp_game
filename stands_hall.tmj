@@ -2041,6 +2041,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"cesar_3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }],
                  "rotation":0,
                  "type":"area",

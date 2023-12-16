@@ -601,6 +601,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"cesar_meeting"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }],
                  "rotation":0,
                  "type":"",
