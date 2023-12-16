@@ -683,7 +683,24 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[],
+         "objects":[
+                {
+                 "height":1153.33333333333,
+                 "id":29,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"workshop_1"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":897.333333333333,
+                 "x":66.6666666666667,
+                 "y":124
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -1153,7 +1170,7 @@
          "y":0
         }],
  "nextlayerid":75,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {

@@ -943,7 +943,7 @@
                  "y":61
                 }, 
                 {
-                 "height":269.666666666667,
+                 "height":410.666666666667,
                  "id":28,
                  "name":"session-zone",
                  "properties":[
@@ -955,8 +955,8 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":485.333333333333,
-                 "x":764.666666666667,
+                 "width":496.333333333333,
+                 "x":753.666666666667,
                  "y":13
                 }],
          "opacity":1,
@@ -1125,7 +1125,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
