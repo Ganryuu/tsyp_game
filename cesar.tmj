@@ -583,7 +583,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -591,7 +591,35 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[],
+         "objects":[
+                {
+                 "height":898,
+                 "id":27,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"cesar_meeting"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1950,
+                 "x":202,
+                 "y":110
+                }, 
+                {
+                 "height":0,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":476,
+                 "y":1132
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -758,7 +786,7 @@
          "y":0
         }],
  "nextlayerid":74,
- "nextobjectid":24,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
