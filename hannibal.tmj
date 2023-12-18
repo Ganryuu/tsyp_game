@@ -692,10 +692,10 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"workshop_1"
+                         "value":"jitsi"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":897.333333333333,
                  "x":66.6666666666667,
